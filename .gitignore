@@ -1,0 +1,8 @@
+# Do not commit image files.
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.heic
+*.svg
